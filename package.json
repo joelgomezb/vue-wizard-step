@@ -1,0 +1,23 @@
+{
+  "name": "vue-wizard-step",
+  "version": "0.1.0",
+  "description": "Vue.js Wizard Step",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joelgomezb/vue-wizard-step.git"
+  },
+  "keywords": [
+    "vue.js",
+    "wizard"
+  ],
+  "author": "Joel Gomez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelgomezb/vue-wizard-step/issues"
+  },
+  "homepage": "https://github.com/joelgomezb/vue-wizard-step#readme"
+}
